@@ -2,7 +2,7 @@
 
 This is the demo project that I created to demonstrate how to dynamically generate the character glyphs while the user is typing in a browser, and render those glyphs using lottie-web canvas renderer.
 
-You can read more about this here.
+You can [read more about this here](https://kfitfk.github.io/programming/2019/11/24/char-outline.html).
 
 ## Installation
 
